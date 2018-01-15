@@ -2,20 +2,20 @@
 
 ## What topics do we want to cover?
 
-1. Functions as variables ( Using @FunctionalInterface) [x]
-2. Introducing the Function and BiFunction [x]
-3. Types of Functions [x]
+1. Functions as variables ( Using @FunctionalInterface) [X]
+2. Introducing the Function and BiFunction [X]
+3. Types of Functions [X]
     
-    - Consumer [x]
-    - Supplier [x]
-    - Functions [x]
+    - Consumer [X]
+    - Supplier [X]
+    - Functions [X]
  
- 4. Concept of Pure Functions ( Referential Integrity)  [x]
- 5. Higher Order Functions [x]
+ 4. Concept of Pure Functions ( Referential Integrity)  [X]
+ 5. Higher Order Functions [X]
 
 ^^^ For all the above we use Salary Calculator as an example ^^^
 
-6. Types ( Continue to demonstrate the same with Sub classing thing with Employee and all) [x]
+6. Types ( Continue to demonstrate the same with Sub classing thing with Employee and all) [X]
 7. Optionals -> Empty/ Something []
 8. Changing Values inside the context []
     
