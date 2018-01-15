@@ -10,12 +10,11 @@
     - Supplier &#10003;
     - Functions &#10003;
  
- 4. Concept of Pure Functions ( Referential Integrity)  &#10003;
- 5. Higher Order Functions &#10003;
-
-~~ For all the above we use Salary Calculator as an example ~~
-
+4. Concept of Pure Functions ( Referential Integrity)  &#10003;
+5. Higher Order Functions &#10003;
 6. Types ( Continue to demonstrate the same with Sub classing thing with Employee and all) &#10003;
+_For all the above we use Salary Calculator as an example_
+
 7. Optionals -> Empty/ Something []
 8. Changing Values inside the context []
     
