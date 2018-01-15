@@ -2,7 +2,7 @@
 
 ## What topics do we want to cover?
 
-1. Functions as variables ( Using @FunctionalInterface) [X]
+1. Functions as variables ( Using @FunctionalInterface) &#10003;
 2. Introducing the Function and BiFunction [X]
 3. Types of Functions [X]
     
