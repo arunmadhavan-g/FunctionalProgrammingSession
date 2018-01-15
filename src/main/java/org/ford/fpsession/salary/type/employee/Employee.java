@@ -1,13 +1,16 @@
 package org.ford.fpsession.salary.type.employee;
 
+import lombok.EqualsAndHashCode;
+
 import java.util.Random;
 import java.util.function.BiFunction;
 
+@EqualsAndHashCode
 public abstract class Employee {
 
-    private int time;
-    private int overtime;
-    private BiFunction<Integer, Integer, Double> salaryFunction;
+    private final int time;
+    private final int overtime;
+    private final BiFunction<Integer, Integer, Double> salaryFunction;
 
     protected Employee(int time, BiFunction<Integer, Integer, Double> salaryFunction){
         this(time, 0, salaryFunction);

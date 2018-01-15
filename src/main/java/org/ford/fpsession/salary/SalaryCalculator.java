@@ -2,8 +2,11 @@ package org.ford.fpsession.salary;
 
 import org.ford.fpsession.salary.type.employee.Contractor;
 import org.ford.fpsession.salary.type.employee.Developer;
+import org.ford.fpsession.salary.type.employee.Employee;
 import org.ford.fpsession.salary.type.employee.SeniorDev;
 
+import java.util.List;
+import java.util.Optional;
 import java.util.logging.Logger;
 
 import static org.ford.fpsession.salary.SalaryFormulae.*;
@@ -34,6 +37,5 @@ public class SalaryCalculator {
     public static void main(String[] args) {
         System.out.println(new SalaryCalculator().salaries(160, 20));
     }
-
 
 }
