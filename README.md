@@ -6,9 +6,9 @@
 2. Introducing the Function and BiFunction [x]
 3. Types of Functions [x]
     
-    a. Consumer [x]
-    b. Supplier [x]
-    c. Functions [x]
+    - Consumer [x]
+    - Supplier [x]
+    - Functions [x]
  
  4. Concept of Pure Functions ( Referential Integrity)  [x]
  5. Higher Order Functions [x]
@@ -19,10 +19,9 @@
 7. Optionals -> Empty/ Something []
 8. Changing Values inside the context []
     
-     a. Functors []
+     - Functors []
 
 9. Isolating the side effects from purity layer []
     
-     b. Monads. []
-     
-
+     - Monads. []
+    
